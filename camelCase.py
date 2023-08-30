@@ -15,4 +15,5 @@ def camelCase(sentence):
 
     print(combinedWords)
 
+sentence = input('Type a sentence to convert to a camelCase: ')
 camelCase()
